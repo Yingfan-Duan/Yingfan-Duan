@@ -43,4 +43,4 @@ Here is my commonly used languages and platforms:
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yingfan-Duan&hide=html,css,less,ruby,javascript&theme=graywhite&langs_count=6" />
 </div>
 
-![](https://raw.githubusercontent.com/Yingfan-Duan/Yingfan-Duan/main/assets/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/Yingfan-Duan/Yingfan-Duan/output/github-contribution-grid-snake.svg)
