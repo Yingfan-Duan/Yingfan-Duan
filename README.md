@@ -8,7 +8,7 @@
 **If you want to know more about or contact me**, please check out: 
 - 🧡 my website [here](https://yingfan-duan.github.io/);
 - 💛 my email [yingfanduan901@gmail.com](mailto:yingfanduan901@gmail.com);
-- 💚 my wechat [QR code]()
+- 💚 my wechat [QR code](wechat.jpg)
 
 ### My Github Status
 
